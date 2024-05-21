@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Diego's Homepage"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Diego's Homepage"
+name                     : &name "Your Name"
 description              : &description "personal description"
-url                      :  https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Diego Argiolas"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Aspiring game developer"
-  location         : "Sardinia, Italy"
-  employer         : "Reply Italy"
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
 
