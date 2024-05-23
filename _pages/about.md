@@ -13,10 +13,10 @@ About me
 I'm a 23 year old developer, graduated in 2023 in CS. Currently working as a consultant I matured a strong interest towards game developing while I was approaching the very end of my academic career, I started with simple projects in Unity and then I switched to Unreal Engine in order to gain further knowledge and to face more difficult challenges.
 
 
+![Unity logo image](/images/unity.png){: .align-right width = "300px"}
 
 Unity
 ------
-![Unity logo image](/images/unity.png){: .align-right width = "300px"}
 The very start consisted of relatively small tasks such as adding small features or fixing broken code in the provided projects by Unity itself. Thereafter I started my "major" project, a top down RPG, I spent quite a while (approximately 7/9 months) developing this game.
 
 I explored a lot of concepts regarding an RPG, my intention was serious about it and I genuinely wanted to release it but it lacked of environments and I wasn't really into scene building but rather developing technical aspects. I was greatly inspired by *Metin2* when developing this game.
