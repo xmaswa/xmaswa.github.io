@@ -13,8 +13,10 @@ About me
 I'm a 23 year old developer, graduated in 2023 in CS. Currently working as a consultant I matured a strong interest towards game developing while I was approaching the very end of my academic career, I started with simple projects in Unity and then I switched to Unreal Engine in order to gain further knowledge and to face more difficult challenges.
 
 
+
 Unity
 ------
+![Unity logo image](/images/unity.png) {: .align-right width = "300px"}
 The very start consisted of relatively small tasks such as adding small features or fixing broken code in the provided projects by Unity itself. Thereafter I started my "major" project, a top down RPG, I spent quite a while (approximately 7/9 months) developing this game.
 
 I explored a lot of concepts regarding an RPG, my intention was serious about it and I genuinely wanted to release it but it lacked of environments and I wasn't really into scene building but rather developing technical aspects. I was greatly inspired by *Metin2* when developing this game.
@@ -30,4 +32,8 @@ These are some of the features that I was able to implement in the game:
 
 Unreal Engine
 ------
-After spending a while on Unity I eventually decided to switch to UE since I found out it was more industry oriented, I came to the conclusion that Unity was a good engine for indie/2D games and it does a good job about it.  
+After spending a while on Unity I eventually decided to switch to UE since I found out it was more industry oriented, I came to the conclusion that Unity was a good engine for indie/2D games and it does an honest job about it.
+
+I started off with a basic souls-like in order to explore the engine, my 2 major projects in UE consisted of:
+1. **Multiplayer 3rd person shooter**: spent quite a while with this one, the part I enjoyed the most about this was studying the concepts regarding the multiplayer part, such as the Server Side Rewind (a technique of lag compensation, used for checking whether the hit was legit or not)
+1. **AI Powered Maze Runner**: I worked on a very interesting project with my co-workers, the game was an arcade revolved around beating AI generated labyrinths filled with traps, enemies. In the labyrinth you could also find powerups and weapons, which clearly were meant to be helpful for beating the challenges. With this project I didn't just learn how to execute efficiently the tasks provided by the leader, but I've also took the first step into developing a game with a team, so communication and coordination were a key to make this whole project work.
