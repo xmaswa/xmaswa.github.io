@@ -13,7 +13,7 @@ About me
 I'm a 23 year old developer, graduated in 2023 in CS. Currently working as a consultant I matured a strong interest towards game developing while I was approaching the very end of my academic career, I started with simple projects in Unity and then I switched to Unreal Engine in order to gain further knowledge and to face more difficult challenges.
 
 
-![Unity logo image](/images/unity.png){: .align-right width = "150px"}
+![Unity logo image](/images/unity.png){: .align-right width = "50px"}
 
 Unity
 ------
@@ -29,6 +29,8 @@ These are some of the features that I was able to implement in the game:
 1. **Item stats**: every item was filled with stats for the solely purpose of powering the player, plus every item required a certain class in order to be worn. Every piece of equipment (armor and weapons) had their own effect based on the rarity. Moreover they provided a special status effect applied to the enemy only if the criteria met the requirements in order to be triggerable.
 1. **Save system**: I made this from scratch, very basic save system, nothing complex.
 1. **Classic RPG features**: looting, killing mobs, experience system (following Runescape's method), skill slot, chests and so on.
+
+![UE logo image](/images/unreal_engine.png){: .align-right width = "50px"}
 
 Unreal Engine
 ------
