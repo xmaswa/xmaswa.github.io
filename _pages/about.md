@@ -15,9 +15,9 @@ I'm a 23 year old developer, graduated in 2023 in CS. Currently working as a con
 
 Unity
 ------
-The very start consisted of relatively small tasks such as adding small features or fixing broken code in the provided projects by Unity itself. Thereafter I started my "major" project, a top down RPG, I spent quite a while (approximately 7/9 months) developing this game and it was fun, I explored a lot of concepts regarding an RPG (quests, looting, killing mobs, experience, levelling, skills, character creation, crafting and so on..), my intention was serious about it and I genuinely wanted to release it but due to some complications it has never made it out, plus my old pc was memory wiped and I forgot to take all the videos taken during the process, so I'm standing with just the project and the code.
+The very start consisted of relatively small tasks such as adding small features or fixing broken code in the provided projects by Unity itself. Thereafter I started my "major" project, a top down RPG, I spent quite a while (approximately 7/9 months) developing this game and it was fun, I explored a lot of concepts regarding an RPG (quests, looting, killing mobs, experience, levelling, skills, character creation, crafting and so on..), my intention was serious about it and I genuinely wanted to release it but due to some complications it has never made it out.
 
-Getting started
+Unreal Engine
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
