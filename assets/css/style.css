@@ -1,10 +1,13 @@
 /* Center the gallery content */
 .gallery {
-    text-align: center; /* Center-align inline elements */
+    display: flex; /* Use flexbox for layout */
+    flex-direction: column; /* Stack items vertically */
+    align-items: center; /* Center items horizontally */
+    gap: 20px; /* Spacing between elements */
 }
 
 /* Style for iframes */
-.gallery iframe {
+iframe {
     margin: 20px 0; /* Add spacing above and below videos */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add shadow for depth */
     border: none; /* Remove iframe borders */
@@ -13,18 +16,11 @@
 
 /* Style for images */
 .gallery img {
-    max-width: 90%; /* Make images responsive */
-    height: auto; /* Maintain aspect ratio */
-    margin: 20px 0; /* Spacing between images */
+    max-width: 100%; /* Make images responsive */
+    width: auto; /* Maintain aspect ratio */
+    height: auto; /* Ensure proper scaling */
+    margin: 0 auto; /* Center horizontally */
     border: 2px solid #ddd; /* Optional border */
     border-radius: 8px; /* Rounded corners */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Soft shadow */
-}
-
-/* Optional: Add a heading style */
-.gallery-heading {
-    font-size: 1.5em;
-    color: #333;
-    margin-top: 30px;
-    margin-bottom: 10px;
 }
