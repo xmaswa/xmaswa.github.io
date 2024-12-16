@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_6413.JPG"
+  avatar           : "Foto.png"
   name             : "Diego Argiolas"
   pronouns         : # example: "she/her"  
-  bio              : "Aspiring game developer"
+  bio              : "Software Developer"
   location         : "Sardinia, Italy"
   location         : "Reply, Italy"
   uri              : # URL
