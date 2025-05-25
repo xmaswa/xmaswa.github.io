@@ -10,7 +10,7 @@ redirect_from:
 
 About me 
 ------
-I'm a 23 year old developer, graduated in 2023 in CS. Currently working as a consultant I matured a strong interest towards algorithms and game development while I was approaching the very end of my academic career, I started with simple projects in Unity and then I switched to Unreal Engine in order to gain further knowledge and to face more difficult challenges. Right now on a journey to graphics programming and game engine development with the use of OpenGL, GLFW and C++.
+I'm a 24 year old developer, graduated in 2023 in CS. Currently working as a consultant I matured a strong interest towards algorithms and game development while I was approaching the very end of my academic career, I started with simple projects in Unity and then I switched to Unreal Engine in order to gain further knowledge and to face more difficult challenges.
 
 Unity 
 ------
